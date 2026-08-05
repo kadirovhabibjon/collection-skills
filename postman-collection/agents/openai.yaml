@@ -1,4 +1,0 @@
-interface:
-  display_name: "Postman Collection"
-  short_description: "Clean reusable Postman collection workflow"
-  default_prompt: "Use $postman-collection to create a clean reusable Postman collection for this API."
